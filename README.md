@@ -1,6 +1,6 @@
 # DAQ-Algorithmn-to-FPGA Project
 
-The goal of this project is to analyze detector data from the Stopping Target Monitor (STM) of the Mu2e experiment ([https://mu2e.fnal.gov/](https://mu2e.fnal.gov/)) at Fermilab directly in hardware on the FPGA. The code is developed by Martin Voigt and Rober Ufer (Supervisors: [Oliver Knodel](mailto:o.knodel@hzdr.de) and Stefan E. Müller) at the Helmholtz-Zentrum Dresden-Rossendorf ([HZDR](https://www.hzdr.de)).
+The goal of this project is to analyze detector data from the Stopping Target Monitor (STM) of the Mu2e experiment ([https://mu2e.fnal.gov/](https://mu2e.fnal.gov/)) at Fermilab directly in hardware on the FPGA. The code is developed by **Martin Voigt** and **Rober Ufer** (Supervisors: [Oliver Knodel](mailto:o.knodel@hzdr.de) and Stefan E. Müller) at the Helmholtz-Zentrum Dresden-Rossendorf ([HZDR](https://www.hzdr.de)).
 
     High Level Synthesis (HLS) is used to optimize the design process and allow non-HDL FPGA programming.
 
