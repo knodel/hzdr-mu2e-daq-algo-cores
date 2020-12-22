@@ -1,0 +1,15 @@
+{
+    "creators": [
+        {
+            "name": "Knodel, Oliver",
+            "affiliation": "Helmholtz-Zentrum Dresden-Rossendorf",
+            "orcid": "0000-0001-8174-7795"
+        }
+    ],
+    "title": "Algorithms for the Exploration of an Automated STM DAQ Hardware Development Process based on Continuous Integration for the Mu2e Experiment.",
+    "access_right": "open",
+    "upload_type": "software",
+    "license": "GPL-3.0",
+    "pub_id": "31982",
+    "description": "This project contains the source code for the evaluation of an automated process which converts algorithms written in C/C++ to Data Acquisition (DAQ) hardware cores on Field Programmable Gate Arrays (FPGAs) using Continuous Integration (CI). The cores are building blocks of the DAQ for the Stopping-Target-Monitor of the MU2E experiment currently in construction at FERMILAB (USA). The MU2E experiment will search for Charged Lepton Flavor Violation (CLFV) looking for the direct decay of a muon into an electron."
+}
