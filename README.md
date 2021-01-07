@@ -1,3 +1,5 @@
+[![DOI](https://rodare.hzdr.de/badge/DOI/10.14278/rodare.721.svg)](https://doi.org/10.14278/rodare.721)
+
 # DAQ-Algorithmn-to-FPGA Project
 
 The goal of this project is to analyze detector data from the Stopping Target Monitor (STM) of the Mu2e experiment ([https://mu2e.fnal.gov/](https://mu2e.fnal.gov/)) at Fermilab directly in hardware on the FPGA. The code is developed by **Martin Voigt** and **Rober Ufer** (Supervisors: [Oliver Knodel](mailto:o.knodel@hzdr.de) and Stefan E. Müller) at the Helmholtz-Zentrum Dresden-Rossendorf ([HZDR](https://www.hzdr.de)).
