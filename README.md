@@ -1,4 +1,4 @@
-[![DOI](https://rodare.hzdr.de/badge/DOI/10.14278/rodare.721.svg)](https://doi.org/10.14278/rodare.721)
+[![DOI](https://rodare.hzdr.de/badge/DOI/10.14278/rodare.720.svg)](https://doi.org/10.14278/rodare.720)
 
 # DAQ-Algorithmn-to-FPGA Project
 
